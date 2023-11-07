@@ -99,9 +99,7 @@ plt.show()
 ![Screenshot from 2023-11-07 13-58-49](https://github.com/VaishnavNanda/EROSION-AND-DILATION/assets/118707051/582038c4-5243-4f9e-bd13-512c8fd4e457)
 
 
-<br>
-<br>
-<br>
+
 <br>
 <br>
 <br>
@@ -110,12 +108,6 @@ plt.show()
 ![Screenshot from 2023-11-07 13-58-56](https://github.com/VaishnavNanda/EROSION-AND-DILATION/assets/118707051/f605ecd0-6c10-47f2-a6d8-5877f3aa1186)
 
 
-
-
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 
