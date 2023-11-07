@@ -67,9 +67,6 @@ plt.title('Eroded Text'), plt.xticks([]), plt.yticks([])
 plt.show()
 ```
 
-
-
-
 # Dilate the image:
 ```
 image_dilate=cv2.dilate(image,kernel)
@@ -78,38 +75,21 @@ plt.title('Dilated Text'), plt.xticks([]), plt.yticks([])
 plt.show()
 ```
 
-
-
-
-
 ## Output:
 
 ### Display the input Image:
 ![Screenshot from 2023-11-07 13-58-38](https://github.com/VaishnavNanda/EROSION-AND-DILATION/assets/118707051/5daf996d-8a77-44c6-9422-c8001b3f9075)
-
-
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 
 ### Display the Eroded Image:
 ![Screenshot from 2023-11-07 13-58-49](https://github.com/VaishnavNanda/EROSION-AND-DILATION/assets/118707051/582038c4-5243-4f9e-bd13-512c8fd4e457)
-
-
-
 <br>
 <br>
 <br>
-
 ### Display the Dilated Image:
 ![Screenshot from 2023-11-07 13-58-56](https://github.com/VaishnavNanda/EROSION-AND-DILATION/assets/118707051/f605ecd0-6c10-47f2-a6d8-5877f3aa1186)
-
-
 <br>
 <br>
-
 ## Result
 Thus the generated text image is eroded and dilated using python and OpenCV.
