@@ -44,7 +44,7 @@ import matplotlib.pyplot as plt
 ```
 image = np.zeros((100,500),dtype = 'uint8')
 font = cv2.FONT_HERSHEY_SIMPLEX
-cv2.putText(image,"JEEVAGOWTHAM S",(5,70),font,2,(255),5,cv2.LINE_AA)
+cv2.putText(image,"S VAISHNAV NANDA",(5,70),font,2,(255),5,cv2.LINE_AA)
 plt.imshow(image,cmap='gray')
 plt.title('Input Text'), plt.xticks([]), plt.yticks([])
 plt.show()
@@ -85,7 +85,8 @@ plt.show()
 ## Output:
 
 ### Display the input Image:
-![Screenshot 2023-10-14 154815](https://github.com/JeevaGowtham-S/EROSION-AND-DILATION/assets/118042624/7f65e74f-60a8-4c8d-8b26-37bfab8ffdc0)
+![Screenshot from 2023-11-07 13-58-38](https://github.com/VaishnavNanda/EROSION-AND-DILATION/assets/118707051/5daf996d-8a77-44c6-9422-c8001b3f9075)
+
 
 <br>
 <br>
@@ -95,7 +96,8 @@ plt.show()
 <br>
 
 ### Display the Eroded Image:
-![Screenshot 2023-10-14 154955](https://github.com/JeevaGowtham-S/EROSION-AND-DILATION/assets/118042624/b0aaf3e0-e13b-432e-b00c-8d9e5ab17003)
+![Screenshot from 2023-11-07 13-58-49](https://github.com/VaishnavNanda/EROSION-AND-DILATION/assets/118707051/582038c4-5243-4f9e-bd13-512c8fd4e457)
+
 
 <br>
 <br>
@@ -105,7 +107,8 @@ plt.show()
 <br>
 
 ### Display the Dilated Image:
-![Screenshot 2023-10-14 155057](https://github.com/JeevaGowtham-S/EROSION-AND-DILATION/assets/118042624/f6667a10-f5ae-4e71-bed4-283810db4582)
+![Screenshot from 2023-11-07 13-58-56](https://github.com/VaishnavNanda/EROSION-AND-DILATION/assets/118707051/f605ecd0-6c10-47f2-a6d8-5877f3aa1186)
+
 
 
 
